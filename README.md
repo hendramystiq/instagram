@@ -2,7 +2,7 @@
 <br/>
 
 ## How to install (DEFAULT or BASIC USAGE)
-	* git clone https://github.com/ikiganteng/bot-igeh.git
+	* git clone https://github.com/hendramystiq/instagram.git
 	* cd bot-igeh
 	* unzip node_modules.zip
 	* ls
@@ -14,7 +14,7 @@
 	* Download GIT for Windows (https://git-scm.com/download/) *Choose WIN & 32bit/64bit
 	* Download NodeJS (https://nodejs.org/en/download/) *Choose .msi & 32bit/64bit
 	* INSTALL GIT for Windows & NodeJS
-	* Download File on Github (https://github.com/ikiganteng/bot-igeh.git)
+	* Download File on Github (https://github.com/hendramystiq/instagram.git)
 	* Extract File bot-igeh and enter the folder
 	* Right Click on Mouse, Then Select "Git Bash Here" (Make sure you are in the bot-igeh folder!!!)
 	* Then type: unzip node_modules.zip
@@ -28,7 +28,7 @@
 	* Open Termux and Wait for Automatic Install of Termux.
 	* pkg install git
 	* pkg install nodejs
-	* git clone https://github.com/ikiganteng/bot-igeh.git
+	* git clone https://github.com/hendramystiq/instagram.git
 	* cd bot-igeh
 	* unzip node_modules.zip
 	* ls
@@ -46,7 +46,7 @@
 	* sudo yum -y install nodejs
 
 	=========== Basic Usage ==============
-	* git clone https://github.com/ikiganteng/bot-igeh.git
+	* git clone https://github.com/hendramystiq/instagram.git
 	* cd bot-igeh
 	* unzip node_modules.zip
 	* ls
@@ -82,7 +82,7 @@
 	* nvm install 10.7.0
 
 	=========== Basic Usage ==============
-	* git clone https://github.com/ikiganteng/bot-igeh.git
+	* git clone https://github.com/hendramystiq/instagram.git
 	* cd bot-igeh
 	* unzip node_modules.zip
 	* nvm use 10.7.0
